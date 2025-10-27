@@ -3,3 +3,24 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.border {
+    outline: 1px solid black;
+}
+
+header {
+    height: 75px;
+    background-color: #2a3d4f;
+}
+
+.bg-green {
+    background-color: #00bd9d;
+}
+
+footer {
+    background-color: #37536c;
+}
+
+.bg-gray {
+    background-color: #2a3d4f;
+}
