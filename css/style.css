@@ -6,6 +6,10 @@
 
 /* NAV-BAR  */
 
+.cl-white {
+    color: white;
+}
+
 .cl-white a,
 .cl-white li {
     color: white;
@@ -17,7 +21,25 @@
     color: white;
 }
 
+/* JUMBOTRON */
 
+.bar-star {
+    width: 7rem;
+    height: .3rem;
+    background-color: white;
+    border-radius: 20px;
+
+}
+
+#star h2 {
+    font-size: 2.3rem;
+}
+
+#star li {
+    margin: 0 .5rem;
+    list-style-type: none;
+    font-size: 1.2rem;
+}
 
 .border {
     outline: 1px solid black;
