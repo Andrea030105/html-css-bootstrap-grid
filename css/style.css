@@ -4,13 +4,23 @@
     box-sizing: border-box;
 }
 
-.border {
-    outline: 1px solid black;
+/* NAV-BAR  */
+
+.cl-white a,
+.cl-white li {
+    color: white;
+    font-weight: bold;
 }
 
-header {
-    height: 75px;
-    background-color: #2a3d4f;
+.cl-white a:hover,
+.cl-white a:focus {
+    color: white;
+}
+
+
+
+.border {
+    outline: 1px solid black;
 }
 
 .bg-green {
