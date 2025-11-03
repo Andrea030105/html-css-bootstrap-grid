@@ -26,6 +26,10 @@
     background-color: #2a3d4f;
 }
 
+.h-55px {
+    height: 55px;
+}
+
 /* STAR */
 
 .bar-star {
@@ -88,4 +92,21 @@ footer {
     border: none;
     background-color: #00bd9d;
     color: white;
+}
+
+/* FOOTER */
+
+.border-circle {
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+.container-text span {
+    color: #00bd9d;
+}
+
+.container-text p {
+    margin-bottom: 0;
 }
